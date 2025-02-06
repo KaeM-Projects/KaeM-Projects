@@ -1,0 +1,10 @@
+akumulator.v
+alu.v
+cpu_top.v
+dekoder.v
+dm.v
+pm.v
+program_counter.v
+register_file.v
+stack.v
+top.v

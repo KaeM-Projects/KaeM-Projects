@@ -1,0 +1,10 @@
+uut/alu_acc.sv
+tb_driver.sv
+tb_environment.sv
+tb_generator.sv
+tb_interface.sv
+tb_monitor.sv
+tb_scoreboard.sv
+tb_test.sv
+tb_transaction.sv
+testbench.sv
